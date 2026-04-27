@@ -13,4 +13,5 @@ public class Main {
         logger.info("Đang tính hiệu của {} và {}", a, b);
         return a - b;
     }
+
 }
