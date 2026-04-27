@@ -13,7 +13,4 @@ public class Main {
         logger.info("Đang tính hiệu của {} và {}", a, b);
         return a - b;
     }
-    public static void main(String[] args) {
-        System.out.println("Tổng là: " + tinhTong(5, 5));
-    }
 }
